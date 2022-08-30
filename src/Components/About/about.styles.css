@@ -1,0 +1,23 @@
+
+.bio{
+    background-color: blueviolet;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    margin: 0 20px 20px 0;
+    display: inline-block;
+    width: 90%;  
+}
+
+.imagem{
+    width: 350px;
+    height: 350px;
+    box-shadow: 10px 10px 5px #000000;
+    margin-left: 250px;
+    float: left;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+
+.rodape{
+    background-color: rgb(112, 107, 209);
+    margin: 0, auto;
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+    padding: 60px;
+}
